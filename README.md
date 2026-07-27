@@ -9,7 +9,7 @@ Customers submit booking requests through a web application. The requests are pl
 ---
 
 ## Demo Video Link
-
+https://youtu.be/MoQng3bBdhg
 
 ---
 
@@ -82,7 +82,7 @@ FleetBook/
 ├── function_app.py
 ├── test-function.http
 ├── requirements.txt
-├── local.settings.json
+├── local.settings.example.json
 └── README.md
 ```
 
